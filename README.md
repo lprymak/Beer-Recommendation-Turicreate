@@ -24,7 +24,7 @@ Intall packages to be used
  - Scikit
  - Turicreate
  
- Locate folder in windows explorer for data files to be used in the Linux Subsystem
-  `C:\Users\<username>\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState`
- If adding files to WSL, must allow permission by the following code
-  `chmod 777 <file>`
+ Locate folder in windows explorer for data files to be used in the Linux Subsystem  
+ `C:\Users\<username>\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState`  
+ If adding files to WSL, must allow permission by the following code  
+ `chmod 777 <file>`
